@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "光源",
+  "base_artist": "櫻坂46",
+  "createdAt": "2026-03-13T13:15:39.506524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光源",
+      "artist": "Butaotome",
+      "has_synced": false,
+      "path": "select/01_光源_Butaotome.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光源",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/02_光源_豚乙女.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光源",
+      "artist": "黄大炜",
+      "has_synced": false,
+      "path": "select/03_光源_黄大炜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光源",
+      "artist": "林欣彤",
+      "has_synced": true,
+      "path": "select/04_光源_林欣彤.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光源",
+      "artist": "櫻坂46",
+      "has_synced": false,
+      "path": "select/pl_01_光源_櫻坂46.txt"
+    }
+  ]
+}
